@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center p-24">
       <h1>Hello this is the update</h1>
       <Link href = "./week-2">Week 2 link </Link>
-
+      <Link href = "./week-3">Week 3 link </Link>
     </main>
   )
 }
