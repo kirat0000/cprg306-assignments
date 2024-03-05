@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Link from 'next/link'
 
 export default function Home() {
@@ -12,7 +11,9 @@ export default function Home() {
         </Link>
         <Link href="./week-4" className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-orange-200 transition duration-150 ease-in-out">Week 4 link
         </Link>
-        <Link href="./week-5" className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-pink-200 transition duration-150 ease-in-out">Week 5 link
+        <Link href="./week-5" className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-orange-200 transition duration-150 ease-in-out">Week 5 link
+        </Link>
+        <Link href="./week-6"className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-pink-200 transition duration-150 ease-in-out">Week 6 link
         </Link>
       </div>
     </main>
