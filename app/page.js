@@ -19,7 +19,8 @@ export default function Home() {
         </Link>
         <Link href="./week-8" className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-orange-200 transition duration-150 ease-in-out">Week 8 Link
         </Link>
-        
+        <Link href="./week-10" className="px-6 py-2 text-lg font-semibold text-black-500 bg-white rounded-md shadow hover:bg-pink-200 transition duration-150 ease-in-out">Week 10 Link
+        </Link>
       </div>
     </main>
   )
